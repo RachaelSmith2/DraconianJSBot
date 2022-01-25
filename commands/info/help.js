@@ -42,6 +42,10 @@ module.exports.run = async (client, message, args) => {
 				"`ban`, `clear`, `clearwarn`, `createchannel`, `createemoji`, `kick`, `lockchannel`, `mute`, `rename`, `slowmode`, `unban`, `unlockchannel`, `unmute`, `warn`, `warnings`"
 			)
 			.addField(
+				"**🤺General Settings**",
+				"`Ban Appeals`, `Admins`, `Mods`, `Statuses`, **COMING SOON**"
+			)
+			.addField(
 				"**:underage:NSFW**",
 				"`4knsfw`, `anal`, `ass`, `hentai`, `holo`, `pussy`, `porn`, `urban`"
 			)
